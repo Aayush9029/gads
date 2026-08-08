@@ -1,0 +1,5 @@
+/gads
+/coverage.out
+/*.out
+/coverage.html
+/.DS_Store

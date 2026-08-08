@@ -1,0 +1,341 @@
+# Official Google Ads documentation index
+
+- <https://developers.google.com/google-ads/api/docs/start>
+- <https://developers.google.com/google-ads/api/docs/release-notes>
+- <https://developers.google.com/google-ads/api/docs/sunset-dates>
+- <https://developers.google.com/google-ads/api/docs/concepts/versioning>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/overview>
+- <https://developers.google.com/google-ads/api/reference/rest>
+- <https://developers.google.com/google-ads/api/fields/v25/overview>
+- <https://developers.google.com/google-ads/api/docs/oauth/overview>
+- <https://developers.google.com/google-ads/api/docs/oauth/internals>
+- <https://developers.google.com/google-ads/api/docs/oauth/user-authentication>
+- <https://developers.google.com/google-ads/api/docs/oauth/credential-management>
+- <https://developers.google.com/google-ads/api/docs/oauth/security-requirements>
+- <https://developers.google.com/google-ads/api/docs/api-policy/developer-token>
+- <https://developers.google.com/google-ads/api/docs/api-policy/access-levels>
+- <https://developers.google.com/google-ads/api/rest/auth>
+- <https://developers.google.com/google-ads/api/docs/concepts/call-structure>
+- <https://developers.google.com/google-ads/api/docs/oauth/access-model>
+- <https://developers.google.com/google-ads/api/docs/account-management/listing-accounts>
+- <https://developers.google.com/google-ads/api/docs/account-management/get-account-hierarchy>
+- <https://developers.google.com/google-ads/api/docs/query/overview>
+- <https://developers.google.com/google-ads/api/docs/query/grammar>
+- <https://developers.google.com/google-ads/api/docs/query/structure>
+- <https://developers.google.com/google-ads/api/docs/query/case-sensitivity>
+- <https://developers.google.com/google-ads/api/docs/query/date-ranges>
+- <https://developers.google.com/google-ads/api/docs/concepts/field-service>
+- <https://developers.google.com/google-ads/api/rest/common/search>
+- <https://developers.google.com/google-ads/api/docs/reporting/overview>
+- <https://developers.google.com/google-ads/api/docs/reporting/streaming>
+- <https://developers.google.com/google-ads/api/docs/reporting/paging>
+- <https://developers.google.com/google-ads/api/docs/reporting/segmentation>
+- <https://developers.google.com/google-ads/api/docs/reporting/zero-metrics>
+- <https://developers.google.com/google-ads/api/docs/mutating/overview>
+- <https://developers.google.com/google-ads/api/docs/mutating/service-mutates>
+- <https://developers.google.com/google-ads/api/docs/mutating/bulk-mutate>
+- <https://developers.google.com/google-ads/api/docs/mutating/best-practices>
+- <https://developers.google.com/google-ads/api/docs/best-practices/partial-failures>
+- <https://developers.google.com/google-ads/api/docs/campaigns/create-campaigns>
+- <https://developers.google.com/google-ads/api/docs/campaigns/budgets/overview>
+- <https://developers.google.com/google-ads/api/docs/ads/overview>
+- <https://developers.google.com/google-ads/api/docs/assets/overview>
+- <https://developers.google.com/google-ads/api/docs/app-campaigns/overview>
+- <https://developers.google.com/google-ads/api/docs/app-campaigns/create-campaign>
+- <https://developers.google.com/google-ads/api/docs/app-campaigns/create-ad-group>
+- <https://developers.google.com/google-ads/api/docs/conversions/overview>
+- <https://developers.google.com/google-ads/api/docs/conversions/upload-offline>
+- <https://developers.google.com/google-ads/api/docs/conversions/upload-calls>
+- <https://developers.google.com/google-ads/api/docs/conversions/adjust-conversions>
+- <https://developers.google.com/google-ads/api/docs/billing/overview>
+- <https://developers.google.com/google-ads/api/docs/billing/billing-setups>
+- <https://developers.google.com/google-ads/api/docs/billing/account-budgets>
+- <https://developers.google.com/google-ads/api/docs/billing/invoice>
+- <https://developers.google.com/google-ads/api/docs/change-status>
+- <https://developers.google.com/google-ads/api/docs/change-event>
+- <https://developers.google.com/google-ads/api/data/geotargets>
+- <https://developers.google.com/google-ads/api/data/codes-formats>
+- <https://developers.google.com/google-ads/api/docs/best-practices/quotas>
+- <https://developers.google.com/google-ads/api/docs/best-practices/system-limits>
+- <https://developers.google.com/google-ads/api/docs/get-started/handle-errors>
+- <https://developers.google.com/google-ads/api/docs/best-practices/understand-api-errors>
+- <https://developers.google.com/google-ads/api/docs/deprecations>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AccountBudgetProposalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AccountBudgetProposalService/MutateAccountBudgetProposal>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AccountLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AccountLinkService/CreateAccountLink>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AccountLinkService/MutateAccountLink>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAdLabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAdLabelService/MutateAdGroupAdLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAdService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAdService/MutateAdGroupAds>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAdService/RemoveAutomaticallyCreatedAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAssetService/MutateAdGroupAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAssetSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupAssetSetService/MutateAdGroupAssetSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupBidModifierService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupBidModifierService/MutateAdGroupBidModifiers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionCustomizerService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionCustomizerService/MutateAdGroupCriterionCustomizers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionLabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionLabelService/MutateAdGroupCriterionLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCriterionService/MutateAdGroupCriteria>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCustomizerService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupCustomizerService/MutateAdGroupCustomizers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupLabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupLabelService/MutateAdGroupLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdGroupService/MutateAdGroups>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdParameterService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdParameterService/MutateAdParameters>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AdService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AdService/MutateAds>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGenerationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGenerationService/GenerateText>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGenerationService/GenerateImages>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupAssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupAssetService/MutateAssetGroupAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupListingGroupFilterService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupListingGroupFilterService/MutateAssetGroupListingGroupFilters>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupService/MutateAssetGroups>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupSignalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetGroupSignalService/MutateAssetGroupSignals>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetService/MutateAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetSetAssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetSetAssetService/MutateAssetSetAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AssetSetService/MutateAssetSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/ListAudienceInsightsAttributes>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/ListInsightsEligibleDates>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateInsightsFinderReport>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateAudienceCompositionInsights>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateAudienceDefinition>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateSuggestedTargetingInsights>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateAudienceOverlapInsights>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceInsightsService/GenerateTargetingSuggestionMetrics>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AudienceService/MutateAudiences>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/AutomaticallyCreatedAssetRemovalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/AutomaticallyCreatedAssetRemovalService/RemoveCampaignAutomaticallyCreatedAsset>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BatchJobService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BatchJobService/ListBatchJobResults>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BatchJobService/MutateBatchJob>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BatchJobService/RunBatchJob>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BatchJobService/AddBatchJobOperations>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService/ListBenchmarksAvailableDates>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService/ListBenchmarksLocations>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService/ListBenchmarksProducts>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService/ListBenchmarksSources>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BenchmarksService/GenerateBenchmarksMetrics>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingDataExclusionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingDataExclusionService/MutateBiddingDataExclusions>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingSeasonalityAdjustmentService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingSeasonalityAdjustmentService/MutateBiddingSeasonalityAdjustments>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingStrategyService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BiddingStrategyService/MutateBiddingStrategies>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BillingSetupService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BillingSetupService/MutateBillingSetup>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/BrandSuggestionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/BrandSuggestionService/SuggestBrands>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignAssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignAssetService/MutateCampaignAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignAssetSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignAssetSetService/MutateCampaignAssetSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignBidModifierService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignBidModifierService/MutateCampaignBidModifiers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignBudgetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignBudgetService/MutateCampaignBudgets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignConversionGoalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignConversionGoalService/MutateCampaignConversionGoals>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignCriterionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignCriterionService/MutateCampaignCriteria>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignCustomizerService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignCustomizerService/MutateCampaignCustomizers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignDraftService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignDraftService/ListCampaignDraftAsyncErrors>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignDraftService/MutateCampaignDrafts>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignDraftService/PromoteCampaignDraft>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignGoalConfigService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignGoalConfigService/MutateCampaignGoalConfigs>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignGroupService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignGroupService/MutateCampaignGroups>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignLabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignLabelService/MutateCampaignLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignService/MutateCampaigns>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignService/EnablePMaxBrandGuidelines>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignSharedSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CampaignSharedSetService/MutateCampaignSharedSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ContentCreatorInsightsService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ContentCreatorInsightsService/GenerateCreatorInsights>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ContentCreatorInsightsService/GenerateTrendingInsights>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionActionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionActionService/MutateConversionActions>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionAdjustmentUploadService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionAdjustmentUploadService/UploadConversionAdjustments>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionCustomVariableService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionCustomVariableService/MutateConversionCustomVariables>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionGoalCampaignConfigService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionGoalCampaignConfigService/MutateConversionGoalCampaignConfigs>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionUploadService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionUploadService/UploadClickConversions>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionUploadService/UploadCallConversions>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionValueRuleService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionValueRuleService/MutateConversionValueRules>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionValueRuleSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ConversionValueRuleSetService/MutateConversionValueRuleSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomAudienceService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomAudienceService/MutateCustomAudiences>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomConversionGoalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomConversionGoalService/MutateCustomConversionGoals>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomInterestService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomInterestService/MutateCustomInterests>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerAssetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerAssetService/MutateCustomerAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerAssetSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerAssetSetService/MutateCustomerAssetSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerClientLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerClientLinkService/MutateCustomerClientLink>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerConversionGoalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerConversionGoalService/MutateCustomerConversionGoals>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerCustomizerService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerCustomizerService/MutateCustomerCustomizers>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerLabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerLabelService/MutateCustomerLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerManagerLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerManagerLinkService/MutateCustomerManagerLink>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerManagerLinkService/MoveManagerLink>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerNegativeCriterionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerNegativeCriterionService/MutateCustomerNegativeCriteria>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerService/ListAccessibleCustomers>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerService/MutateCustomer>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerService/CreateCustomerClient>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerSkAdNetworkConversionValueSchemaService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerSkAdNetworkConversionValueSchemaService/MutateCustomerSkAdNetworkConversionValueSchema>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerUserAccessInvitationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerUserAccessInvitationService/MutateCustomerUserAccessInvitation>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerUserAccessService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomerUserAccessService/MutateCustomerUserAccess>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomizerAttributeService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/CustomizerAttributeService/MutateCustomizerAttributes>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/DataLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/DataLinkService/CreateDataLink>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/DataLinkService/RemoveDataLink>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/DataLinkService/UpdateDataLink>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentArmService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentArmService/MutateExperimentArms>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/ListExperimentAsyncErrors>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/MutateExperiments>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/EndExperiment>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/GraduateExperiment>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/ScheduleExperiment>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ExperimentService/PromoteExperiment>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/GeoTargetConstantService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GeoTargetConstantService/SuggestGeoTargetConstants>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/GoalService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoalService/MutateGoals>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsFieldService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsFieldService/GetGoogleAdsField>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsFieldService/SearchGoogleAdsFields>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/Search>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/SearchStream>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/Mutate>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/IdentityVerificationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/IdentityVerificationService/GetIdentityVerification>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/IdentityVerificationService/StartIdentityVerification>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/IncentiveService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/IncentiveService/FetchIncentive>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/IncentiveService/ApplyIncentive>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/InvoiceService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/InvoiceService/ListInvoices>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanAdGroupKeywordService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanAdGroupKeywordService/MutateKeywordPlanAdGroupKeywords>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanAdGroupService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanAdGroupService/MutateKeywordPlanAdGroups>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanCampaignKeywordService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanCampaignKeywordService/MutateKeywordPlanCampaignKeywords>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanCampaignService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanCampaignService/MutateKeywordPlanCampaigns>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanIdeaService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanIdeaService/GenerateKeywordIdeas>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanIdeaService/GenerateKeywordHistoricalMetrics>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanIdeaService/GenerateAdGroupThemes>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanIdeaService/GenerateKeywordForecastMetrics>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordPlanService/MutateKeywordPlans>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordThemeConstantService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/KeywordThemeConstantService/SuggestKeywordThemeConstants>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/LabelService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/LabelService/MutateLabels>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/LocalServicesLeadService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/LocalServicesLeadService/AppendLeadConversation>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/LocalServicesLeadService/ProvideLeadFeedback>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/MultiPartyAuthReviewService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/MultiPartyAuthReviewService/ResolveMultiPartyAuthReview>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/OfflineUserDataJobService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/OfflineUserDataJobService/CreateOfflineUserDataJob>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/OfflineUserDataJobService/AddOfflineUserDataJobOperations>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/OfflineUserDataJobService/RunOfflineUserDataJob>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/PaymentsAccountService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/PaymentsAccountService/ListPaymentsAccounts>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkInvitationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkInvitationService/CreateProductLinkInvitation>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkInvitationService/UpdateProductLinkInvitation>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkInvitationService/RemoveProductLinkInvitation>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkService/CreateProductLink>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ProductLinkService/RemoveProductLink>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/ListPlannableLocations>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/ListPlannableProducts>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/ListPlannableUserLists>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/ListPlannableUserInterests>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/GenerateConversionRates>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReachPlanService/GenerateReachForecast>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationService/ApplyRecommendation>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationService/DismissRecommendation>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationService/GenerateRecommendations>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationSubscriptionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/RecommendationSubscriptionService/MutateRecommendationSubscription>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/RemarketingActionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/RemarketingActionService/MutateRemarketingActions>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ReservationService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReservationService/QuoteCampaigns>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ReservationService/BookCampaigns>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ShareablePreviewService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ShareablePreviewService/GenerateShareablePreviews>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/SharedCriterionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SharedCriterionService/MutateSharedCriteria>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/SharedSetService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SharedSetService/MutateSharedSets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSettingService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSettingService/GetSmartCampaignStatus>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSettingService/MutateSmartCampaignSettings>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSuggestService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSuggestService/SuggestSmartCampaignBudgetOptions>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSuggestService/SuggestSmartCampaignAd>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/SmartCampaignSuggestService/SuggestKeywordThemes>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/ThirdPartyAppAnalyticsLinkService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/ThirdPartyAppAnalyticsLinkService/RegenerateShareableLinkId>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/TravelAssetSuggestionService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/TravelAssetSuggestionService/SuggestTravelAssets>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/UserDataService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/UserDataService/UploadUserData>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/UserListCustomerTypeService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/UserListCustomerTypeService/MutateUserListCustomerTypes>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/UserListService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/UserListService/MutateUserLists>
+- <https://developers.google.com/google-ads/api/reference/rpc/v25/YouTubeVideoUploadService>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/YouTubeVideoUploadService/CreateYouTubeVideoUpload>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/YouTubeVideoUploadService/UpdateYouTubeVideoUpload>
+  - <https://developers.google.com/google-ads/api/reference/rpc/v25/YouTubeVideoUploadService/RemoveYouTubeVideoUpload>
